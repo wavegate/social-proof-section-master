@@ -158,7 +158,7 @@ blockquote {
   line-height: 1.5rem;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1150px) {
   body {
     background: url("images/bg-pattern-bottom-mobile.svg") right bottom
         no-repeat,
